@@ -1,0 +1,2 @@
+frames = 6x16, 7x16
+introFrames = 1x12, 2x4, 1x4, 2x4, 1x4, 2x4, 1x4, 2x4, 1x4, 2x4, 1x4, 2x4, 1x4, 2x4, 1x4, 3x4, 4x4, 3x4, 4x4, 3x4, 4x4, 3x4, 4x4, 5x20

@@ -1,0 +1,7 @@
+name=Neko PD
+author=ribboncable
+description=Long live Neko!
+bundleID=net.ribboncable.nekopd
+version=0.1
+buildNumber=1
+imagePath=images/
