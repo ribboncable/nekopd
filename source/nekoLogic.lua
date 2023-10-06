@@ -1,6 +1,6 @@
 -----------------------------NEKO AI
 
-local function nekoAI()
+local function nekoMovement()
     --
     nekoDirectionToCursor = nekoPos - cursorPos
     nekoDirectionToCursor:normalize()
@@ -150,7 +150,7 @@ function nekoLogic()
     --
     nekoStates()
     --
-    nekoAI()
+    nekoMovement()
     --
     nekoSpeed = nekoPos - nekoPrevPos
 end
